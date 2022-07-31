@@ -52,6 +52,9 @@
         <module>cloudalibaba-provider-payment9003</module>
         <module>cloudalibaba-provider-payment9004</module>
         <module>cloudalibaba-consumer-nacos-order84</module>
+<!--自己的-->
+        <module>101mk_user</module>
+        <module>cloud-common-bean</module>
 
     </modules>
     <packaging>pom</packaging>
